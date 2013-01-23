@@ -1,0 +1,5 @@
+D:\stuff\work\random\CodeTanks\bin\Debug\CodeTanks.exe
+D:\stuff\work\random\CodeTanks\bin\Debug\CodeTanks.pdb
+D:\stuff\work\random\CodeTanks\obj\Debug\CodeTanks.exe
+D:\stuff\work\random\CodeTanks\obj\Debug\CodeTanks.pdb
+D:\stuff\work\random\CodeTanks\obj\Debug\CodeTanks.csprojResolveAssemblyReference.cache

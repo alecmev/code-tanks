@@ -1,0 +1,5 @@
+D:\stuff\work\random\CodeTanks\bin\Debug\csharp-cgdk.exe
+D:\stuff\work\random\CodeTanks\bin\Debug\csharp-cgdk.pdb
+D:\stuff\work\random\CodeTanks\obj\Debug\csharp-cgdk.csprojResolveAssemblyReference.cache
+D:\stuff\work\random\CodeTanks\obj\Debug\csharp-cgdk.exe
+D:\stuff\work\random\CodeTanks\obj\Debug\csharp-cgdk.pdb

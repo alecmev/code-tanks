@@ -1,0 +1,41 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 12.04.0 ] */
+
+/* [wxMaxima: input   start ] */
+float(%pi/180);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+3.9583322/2;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+0.03060894807179769/2;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+0.015304474035899*50/75;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+0.017453292519943/2;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+3.9583322/(1.5*1.5);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+0.015304474035899*35/75;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+0.017453292519943*1.5;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+0.017453292519943*15;
+/* [wxMaxima: input   end   ] */
+
+/* Maxima can't load/batch files which end with a comment! */
+"Created with wxMaxima"$
