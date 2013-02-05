@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-Build-Jdk: 1.6.0_31
-Built-By: developer
-Created-By: Apache Maven
-Main-Class: LocalTestRunner
-Archiver-Version: Plexus Archiver
-
